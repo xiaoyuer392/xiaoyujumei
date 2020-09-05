@@ -1,0 +1,10 @@
+.menu {
+  font-size: 20px;
+  line-height: 20px;
+}
+.am-tabs-pane-wrap{
+  z-index: 5;
+}
+.am-tabs-horizontal .am-tabs-pane-wrap-active{
+  z-index: 6;
+}
